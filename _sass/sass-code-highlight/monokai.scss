@@ -127,12 +127,12 @@ $background: #272822;
   }
 }
 
-code.highlighter-rouge { // copied from css in https://int3ractive.com/2019/12/things-to-do-after-installing-ubuntu-mate.html
-  padding: 2px 4px;
-  font-size: 90%;
-  color: #c7254e;
-  background-color: #f9f2f4;
-  border-radius: 4px;
+code{
+  background-color: "#282C34";
+  color: whitesmoke;}
+pre {
+  background-color: "#282C34";
+  color: whitesmoke;
 }
 
 .highlight {
