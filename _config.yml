@@ -1,2 +1,25 @@
-name: Jeremiah Flaga
-markdown: kramdown
+title:              Jeremiah Flaga
+email:              flaga.jeremiah@gmail.com
+description:        My thoughts and experiences on programming, life, atbp.
+author:             Jeremiah Flaga
+baseurl:            ''
+url:                ''
+
+# Social Profiles
+twitter_username:   
+github_username:    jeremiahflaga
+facebook_username:  
+instagram_username:  
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-93514486-1 # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           10
+paginate_path:      "/blog/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
