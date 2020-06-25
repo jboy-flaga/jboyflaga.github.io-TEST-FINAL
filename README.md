@@ -6,3 +6,7 @@ From <https://jekyllrb.com/docs/github-pages/>
 
 
 Using Jekyll with GitHub Pages - from http://jmcglone.com/guides/github-pages/
+
+
+
+Start Bootstrap - Clean Blog Jekyll - Official Jekyll Version - from https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll

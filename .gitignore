@@ -1,1 +1,9 @@
-_site/
+_site
+.sass-cache
+node_modules
+Gemfile.lock
+*.gem
+
+# other gitignores from https://github.com/github/gitignore/blob/master/Jekyll.gitignore
+.jekyll-cache/
+.jekyll-metadata
